@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogbeitraege> 
+    <beitrag>
+        <id>1</id>
+        <headline>Blogbeitrag 1</headline>
+        <content>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                 Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
+                 natoque penatibus et magnis dis parturient montes, nascetur
+                 ridiculus mus. Donec quam felis, ultricies nec, pellentesque
+                 eu, pretium quis, sem. Nulla consequat massa quis enim. Donec
+                 pede justo, fringilla vel, aliquet nec, vulputateodo ligula eget
+                 olor. Aenean massa. Cum sociis natoque penatibus et magnis</content>
+    </beitrag>&gt;
+    <beitrag>
+        <id>2</id>
+        <headline>Blogbeitrag 2</headline>
+        <content>Lorem ipsum dolor sit amet, consectetuer adipiscing
+                 lit. Aenean commodo ligula quis enim. Donec pede justo,
+                 fringilla vel, aliquet nec, vulputate</content>
+    </beitrag>
+    <beitrag>
+        <id>3</id>
+        <headline>Blogbeitrag 3</headline>
+        <content>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                 Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
+                 natoque penatibus et magnis dis parturient montes, nascetur
+                 ridiculus mus. Donec quam felis, ultricies nec, pellentesque
+                 eu, pretium quis, sem. Nulla consequat massa quis enim. Donec
+                 pede justo, fringilla vel, aliquet nec, vulputateodo ligula eget
+                 olor. Aenean massa. Cum sociis natoque penatibus et magnis
+                 dis parturient montes, nascetur ridiculus mus. Donec quam f</content>
+    </beitrag>
+</blogbeitraege>
